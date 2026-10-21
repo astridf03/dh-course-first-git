@@ -1,1 +1,1 @@
-This is a beautiful Test Repo
+This is a beautiful test repo
